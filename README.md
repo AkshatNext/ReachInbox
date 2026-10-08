@@ -1,4 +1,4 @@
-# ReachInbox — Email Scheduler Assignment
+# ReachInbox — Email Scheduler 
 
 A production-grade email scheduler service + dashboard: schedule emails via API,
 send them reliably at scale with BullMQ + Redis (no cron), survive restarts,
